@@ -1,5 +1,5 @@
 # Advice Generator DevFrontchallenges 🧑‍💻
-Este é um projeto simples de um "Advice Generator" criado para a comunidade DevCodePro do Instagram. O objetivo deste projeto é fornecer conselhos aleatórios para ajudar os desenvolvedores em seus desafios diários.
+Este é um projeto simples de um "Advice Generator" criado para a comunidade DevCodePro do Instagram e do Devfrontchallenges. O objetivo deste projeto é fornecer conselhos aleatórios para ajudar os desenvolvedores em seus desafios diários.
 
 A aplicação é construída em JavaScript puro e não requer nenhuma dependência externa a não ser a API em si.
 
